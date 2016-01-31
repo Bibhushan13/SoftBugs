@@ -1,4 +1,5 @@
-String test;
-public static main(){
-    test = " testtest ";
+String cat;
+cat = "this is a cat";
+public cat(){  
+    cat = "this is a cat";
 }
